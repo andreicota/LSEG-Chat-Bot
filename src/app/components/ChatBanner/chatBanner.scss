@@ -1,0 +1,23 @@
+.chatBanner {
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  background-color: var(--dark-blue);
+  color: var(--plain-white);
+  padding: 0.75rem 1rem;
+  display: flex;
+  align-items: center;
+
+  svg {
+    width: 24px;
+    height: 24px;
+    margin-right: 1rem;
+    stroke: var(--plain-white);
+    fill: var(--plain-white);
+  }
+
+  span {
+    line-height: 1.6rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+}

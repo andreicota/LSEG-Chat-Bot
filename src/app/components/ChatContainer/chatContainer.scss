@@ -1,0 +1,9 @@
+.conversation {
+  overflow: auto;
+  max-height: 600px;
+  padding: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  gap: 0.5rem;
+}
