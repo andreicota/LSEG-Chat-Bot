@@ -1,12 +1,13 @@
 ## Getting Started
 
+```
 Install dependencies:
 
 npm i
 
 First, run the development server:
 
-```bash
+bash
 npm run dev
 # or
 yarn dev
